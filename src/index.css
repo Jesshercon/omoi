@@ -27,3 +27,14 @@
   font-weight: 600;
   src: url("/fonts/Montserrat-SemiBold.ttf");
 }
+@font-face {
+  font-family: "EduNSWACTCursive";
+  font-weight: 400;
+  src: url("/fonts/EduNSWACTCursive-Regular.ttf");
+}
+
+@font-face {
+  font-family: "EduNSWACTCursive";
+  font-weight: 700;
+  src: url("/fonts/EduNSWACTCursive-Bold.ttf");
+}
