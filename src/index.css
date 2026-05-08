@@ -1,3 +1,40 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 200;
+  src: url("/fonts/Montserrat-ExtraLight.ttf");
+}
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 300;
+  src: url("/fonts/Montserrat-Light.ttf");
+}
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 400;
+  src: url("/fonts/Montserrat-Regular.ttf");
+}
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 500;
+  src: url("/fonts/Montserrat-SemiBold.ttf");
+}
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 600;
+  src: url("/fonts/Montserrat-SemiBold.ttf");
+}
+@font-face {
+  font-family: "EduNSWACTCursive";
+  font-weight: 400;
+  src: url("/fonts/EduNSWACTCursive-Regular.ttf");
+}
+
+@font-face {
+  font-family: "EduNSWACTCursive";
+  font-weight: 700;
+  src: url("/fonts/EduNSWACTCursive-Bold.ttf");
+}
